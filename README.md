@@ -1,4 +1,4 @@
-A repository for my solutions for LeetCode problems.
+A repository for my solutions for LeetCode problems
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
