@@ -24,6 +24,7 @@ A repository for my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -34,4 +35,8 @@ A repository for my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
