@@ -40,8 +40,10 @@ A repository for my solutions for LeetCode problems.
 | ------- |
 | [0066-plus-one](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
