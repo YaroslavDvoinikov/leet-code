@@ -5,9 +5,9 @@ class Solution:
         is_increasing = True
         is_decreasing = True
         for i in range(len(nums)-1):
-            if nums[i] > nums[i+1]:
+            if is_increasing and nums[i] > nums[i+1]:
                 is_increasing = False
-            if nums[i] < nums[i+1]:
+            if is_decreasing and nums[i] < nums[i+1]:
                 is_decreasing = False
             if not (is_increasing or is_decreasing):
                 return False
