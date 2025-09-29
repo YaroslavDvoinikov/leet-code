@@ -45,6 +45,7 @@ A repository for my solutions for LeetCode problems.
 | ------- |
 | [0066-plus-one](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -59,4 +60,12 @@ A repository for my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0792-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
