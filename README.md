@@ -45,6 +45,7 @@ A repository for my solutions for LeetCode problems.
 | ------- |
 | [0066-plus-one](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -54,4 +55,8 @@ A repository for my solutions for LeetCode problems.
 | [0013-roman-to-integer](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0066-plus-one) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YaroslavDvoinikov/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/YaroslavDvoinikov/leet-code/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
