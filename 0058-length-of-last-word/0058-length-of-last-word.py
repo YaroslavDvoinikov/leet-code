@@ -11,3 +11,4 @@ class Solution:
             else:
                 return counter
         return counter
+        #return len(s.rsplit(maxsplit=1)[-1])
